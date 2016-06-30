@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="?attr/colorPrimary">
+
+    </android.support.v7.widget.Toolbar>
+    <!-- android:minHeight="?attr/actionBarSize"     设置标题栏的最小高度为ActionBar的高度-->
+    <!-- android:background="?attr/colorPrimary"     该主题下默认的颜色-->
+
